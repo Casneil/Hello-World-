@@ -24,11 +24,11 @@ public class Stars {
 		
 		Scanner scan = new Scanner(System.in);
 		
-		System.out.print("Please give me number of rows");
+		System.out.print("Please give me number of rows: ");
 		
 		int rows = scan.nextInt();
 		
-		System.out.print("Please give me number of columns");
+		System.out.print("Please give me number of columns: ");
 		
 		int columns = scan.nextInt();
 
