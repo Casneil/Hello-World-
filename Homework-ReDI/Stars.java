@@ -46,6 +46,7 @@ public class Stars {
 			columns--;
 		}
 		M();
-		
+	scan.close();	
 	}
 }
+ 
